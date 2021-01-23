@@ -1,0 +1,2 @@
+*{box-sizing:border-box;padding:0;margin:0}.App{flex-direction:column}.App,header{display:flex}header{justify-content:space-between}#scoreboard{display:flex;align-items:center}#scoreboard>p{margin:0 10px}#cards,.card{display:flex;justify-content:center}.card{align-items:center;width:200px;height:300px;border:3px solid #000;border-radius:10px;font-size:50px;margin:20px}#start-btn{align-self:center;width:200px;height:30px}
+/*# sourceMappingURL=main.7373db58.chunk.css.map */
