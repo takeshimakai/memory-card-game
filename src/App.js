@@ -53,6 +53,7 @@ function App() {
     } else if (selectedCards.some((el) => el === id)) {
       setSelectedCards([]);
       setCurrentScore(0);
+      setIsGameOver(true);
     }
   }
 
